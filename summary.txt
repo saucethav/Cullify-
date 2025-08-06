@@ -1,0 +1,7 @@
+Cullify Summary:
+----------------
+Total images: 7
+Blurry: 3 → IMG_8954.jpg, IMG_8957.jpg, IMG_8958.jpg
+Eyes closed: 1 → IMG_8960.jpg
+Duplicates: 0 → None
+Filtered (good): 3 → IMG_8952.jpg, IMG_8953.jpg, IMG_8959.jpg
