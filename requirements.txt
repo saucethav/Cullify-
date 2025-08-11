@@ -1,0 +1,14 @@
+# Core imaging
+Pillow
+opencv-python
+imagehash
+numpy
+
+# Eyes detection
+mediapipe
+
+# Prototype UI (optional but currently used)
+streamlit
+
+# Useful for forms/uploads later (optional)
+python-multipart

@@ -1,17 +1,52 @@
-# Virtual environment
+# Virtual environments
 venv/
+.venv/
+env/
+.env
+.env.*
 
-# Python cache
+# Python cache and artifacts
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.python-version
 
-# macOS system file
+# macOS
 .DS_Store
 
-# Environment variables
-.env
+# Editors/IDEs
+.vscode/
+.idea/
 
-# Test Photos
+# Test/coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and temp
+logs/
+*.log
+tmp/
+cache/
+.thumbnails/
+
+# Local data/output (keep code + models tracked)
+runs/
 bad/
 filtered/
 images/
+output/
+exports/
+reports/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# If/when we add a web frontend
+node_modules/
+.next/
+dist/
+build/*zip
